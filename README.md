@@ -6,9 +6,9 @@
 
 For over fifteen years, I worked as a professional player and coach in esports titles including Valorant, Overwatch, and Apex Legends. During that time, I directed competitive teams to multiple first-place finishes by utilizing data analysis and strategy development. This background in high-stakes competition informs my current approach to cybersecurity, where I focus on thinking several steps ahead of potential threats.
 
-My current role as a Client Services Analyst at the University of Kentucky has solidified my commitment to healthcare cybersecurity. I am motivated by the direct impact hackers can have on patient care, medical records, and the ability of doctors to do their work. I want to ensure these critical environments remain secure so that medical professionals can focus entirely on patient outcomes without the threat of technical disruption.
+My current role as a Client Services Analyst at the University of Kentucky has solidified my commitment to healthcare cybersecurity. I am motivated by the direct impact hackers can have on patient care, medical records, and the ability of doctors to do their work. I want to ensure these critical environments remain secure so that medical professionals can focus entirely on patient outcomes without the threat of technical disruption. I also aim to leverage my background in C# to develop custom applications that streamline and automate essential IT and security workflows.
 
-To advance my technical expertise, I am pursuing a Master of Science in Cybersecurity at Southwest Minnesota State University, with plans to continue into a PhD in Information Technology. Beyond my formal studies, I am a hardware enthusiast dedicated to electronic and PCB repair, specifically the restoration of retro game consoles. I aim to leverage my background in C# to develop custom applications that streamline and automate essential IT and security workflows.
+To advance my technical expertise, I am pursuing a Master of Science in Cybersecurity at Southwest Minnesota State University, with plans to continue into a PhD in Information Technology. Beyond my formal studies, I am a hardware enthusiast dedicated to electronic and PCB repair, specifically the restoration of retro game consoles. 
 
 
 # Professional Experience
