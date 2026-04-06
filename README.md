@@ -155,15 +155,13 @@ Effectiveness of AI within an SOC environment: *In progress*
 ## 1. Virtualization & Infrastructure (Proxmox VE)
 **Overview:** I built a robust home lab using Proxmox VE to host security tools and smart home applications. This environment allows for efficient multi-system hosting on a single physical server while maintaining strict isolation.
 
-* **Tools:** `Proxmox VE`, `ZimaOS`, `Debian Linux`
+* **Tools:** `Proxmox VE`
 * **Key Features:**
-    * **Network Isolation:** Segmented ZimaOS and IoT devices from the primary research environment to mitigate lateral movement risks.
     * **Resource Management:** Optimized vCPU and RAM allocation per VM to maintain high system stability.
     * **Quick Recovery:** Implemented a snapshot-based workflow to allow for instant rollbacks during destructive testing.
 
 **What I Learned:**
 * **Hypervisor Management:** Gained hands-on experience with Type-1 hypervisors and hardware abstraction.
-* **Architectural Security:** Applied "Defense in Depth" principles by using VLANs and network segmentation to isolate vulnerable IoT devices.
 * **Disaster Recovery Logic:** Developed professional workflows for snapshot management and high availability.
 
 ---
@@ -195,7 +193,6 @@ Effectiveness of AI within an SOC environment: *In progress*
 
 **What I Learned:**
 * **DNS Fundamentals:** Deepened understanding of the Domain Name System (DNS) as a security control.
-* **Traffic Analysis:** Learned to identify "noisy" devices and suspicious telemetry through real-time log analysis.
 * **Network Optimization:** Gained experience managing global blacklists and whitelists to balance security with usability.
 
 ---
