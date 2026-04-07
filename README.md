@@ -75,16 +75,15 @@ Effectiveness of AI within an SOC environment: *In progress*
 * **Incident Response:** Managed standard security breach response lifecycles.
 
 ### Google Cybersecurity Professional Certificate
-* **SIEM Tools:** Used SIEM tools to detect anomalies.
+* **SIEM Tools:** Leanred how to use SIEM tools to detect anomalies.
 * **Network Analysis:** Analyzed network traffic using packet capturing.
 * **Python & SQL:** Wrote scripts to investigate security events.
 * **Threat Intelligence:** Learned to identify common malware tactics.
 
 ### Google IT Support Professional Certificate
-* **System Administration:** Managed user permissions across operating systems.
+* **System Administration:** Learned how to manage user permissions across operating systems.
 * **Network Protocols:** Built a strong understanding of TCP/IP.
-* **Troubleshooting:** Diagnosed complex hardware and software issues.
-* **Customer Support:** Provided clear technical guidance to users.
+* **Troubleshooting:** Learned how to Diagnose complex hardware and software issues.
 
 ### Google AI Essentials
 * **Prompt Engineering:** Crafted precise prompts for language models.
@@ -93,10 +92,9 @@ Effectiveness of AI within an SOC environment: *In progress*
 * **Concept Application:** Translated AI capabilities into practical solutions.
 
 ### CompTIA Strata IT Fundamentals
-* **Hardware Basics:** Configured core internal computing hardware components.
-* **Software Maintenance:** Installed and updated standard operating systems.
-* **Basic Networking:** Established wired and wireless network connectivity.
-* **Preventative Maintenance:** Applied best practices for system health.
+* **Hardware Basics:** learned how to Configure core internal computing hardware components.
+* **Software Maintenance:** Learned how to Install and update standard operating systems.
+* **Basic Networking:** learned how to Establish wired and wireless network connectivity.
 
 ---
 
