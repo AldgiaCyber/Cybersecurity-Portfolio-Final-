@@ -75,7 +75,7 @@ Effectiveness of AI within an SOC environment: *In progress*
 * **Incident Response:** Managed standard security breach response lifecycles.
 
 ### Google Cybersecurity Professional Certificate
-* **SIEM Tools:** Leanred how to use SIEM tools to detect anomalies.
+* **SIEM Tools:** Learned how to use SIEM tools to detect anomalies.
 * **Network Analysis:** Analyzed network traffic using packet capturing.
 * **Python & SQL:** Wrote scripts to investigate security events.
 * **Threat Intelligence:** Learned to identify common malware tactics.
