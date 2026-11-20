@@ -2,15 +2,13 @@ Updated as of 11/20/26
 
 # About Me
 
-*Hi, I’m Jessie Barger* 
+*Hi, I’m Jessie Barger.*
 
- I am an aspiring cybersecurity professional living in Lexington, Kentucky, with roots in Southeastern Kentucky. My career path has been defined by sixteen years of professional esports competition, a year of teaching English in Germany, and a long-standing interest in understanding how hardware and software systems function.
+I am a cybersecurity professional and Datacenter Operator based in the Greater Cincinnati area, holding a Master of Science in Cybersecurity from Southwest Minnesota State University. My work centers on maintaining the security, availability, and operational resilience of enterprise infrastructure.
 
-For over fifteen years, I worked as a professional player and coach in esports titles including Valorant, Overwatch, and Apex Legends. During that time, I directed competitive teams to multiple first-place finishes by utilizing data analysis and strategy development. This background in high-stakes competition informs my current approach to cybersecurity, where I focus on thinking several steps ahead of potential threats.
+Drawing on experience across datacenter operations and healthcare IT—including roles at Cincinnati Children’s and the University of Kentucky—I bring a disciplined, risk-focused approach to safeguarding sensitive data and mission-critical environments. Alongside infrastructure operations, I develop custom C# applications to automate workflows and improve the efficiency of IT and security processes.
 
-My current role as a Client Services Analyst at the University of Kentucky has solidified my commitment to healthcare cybersecurity. I am motivated by the direct impact hackers can have on patient care, medical records, and the ability of doctors to do their work. I want to ensure these critical environments remain secure so that medical professionals can focus entirely on patient outcomes without the threat of technical disruption. I also aim to leverage my background in C# to develop custom applications that streamline and automate essential IT and security workflows.
-
-To advance my technical expertise, I am pursuing a Master of Science in Cybersecurity at Southwest Minnesota State University, with plans to continue into a PhD in Information Technology. Beyond my formal studies, I am a hardware enthusiast dedicated to electronic and PCB repair, specifically the restoration of retro game consoles. 
+My background also includes a year teaching in Germany, which strengthened my ability to communicate technical concepts clearly across diverse environments. Beyond enterprise systems, I apply a systems-level mindset to hands-on electronics and PCB-level hardware repair.
 
 
 # Professional Experience
