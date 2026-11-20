@@ -1,3 +1,5 @@
+Updated as of 11/20/26
+
 # About Me
 
 *Hi, I’m Jessie Barger* 
@@ -13,12 +15,26 @@ To advance my technical expertise, I am pursuing a Master of Science in Cybersec
 
 # Professional Experience
 
-### UKHC Client Services Analyst
-**University of Kentucky Information Technology Services; Lexington, KY** | *Jan 2025 – Present*
+### Datacenter Operator/Tech
+**Cincinnati Children's - IS Client Services; Cincinnati, Ohio** | *July 2026 - Present*
 
-* Serving as the primary point of contact, I provide responsive, patient-focused assistance via phone, and email.
-* Following internal workflows and company policies, I accurately document tickets and escalate complex issues.
-* To effectively resolve user inquiries, I maintain a working knowledge of Epic MyChart functionality, user access provisioning, and common troubleshooting scenarios.
+
+* Infrastructure & System Monitoring: Continuously monitor environmental controls (power, cooling, UPS) to ensure 24/7 availability and operational stability.
+* Hardware Lifecycle Management: Perform hands-on installation, racking, and decommissioning of enterprise servers while maintaining detailed asset tracking and capital inventory. 
+* Incident Response & Troubleshooting: Identify system anomalies and environmental alerts, execute first-level troubleshooting, and manage incident escalations following strict Standard Operating Procedures (SOPs).
+* Vendor & Project Coordination: Serve as the primary on-site contact for hardware vendors and service technicians, coordinating scheduled maintenance, equipment deliveries, and infrastructure deployment projects.
+* Enterprise Support Operations: Oversee enterprise-wide pager support (programming, inventory, deployment) and facilitate customer/patient communication workflows.
+* Security & Compliance: Maintain physical security controls within the data center and adhere to change management and disaster recovery protocols to ensure audit compliance.
+
+---
+
+### UKHC Client Services Analyst
+**University of Kentucky - Information Technology Services; Lexington, KY** | *Jan 2025 – July 2026*
+
+* Oversee secure identity verification and account provisioning for Epic MyChart, handling approximately 200– 250 users weekly. 
+* Coordinate with IT workflows to resolve complex access issues while maintaining strict HIPAA-compliant security standards. 
+* Troubleshoot patient-facing technology to minimize downtime and improve overall healthcare portal accessibility.
+* Document and escalate technical security issues following strict internal workflows and healthcare privacy regulation
 
 ---
 
@@ -36,7 +52,7 @@ To advance my technical expertise, I am pursuing a Master of Science in Cybersec
 **Southwest Minnesota State University**
 
 *Capstone Project:*
-Effectiveness of AI within an SOC environment: *In progress*
+Effectiveness of AI within an SOC environment
 
 *Relevant Coursework:* 
 * **Artificial Intelligence in Cybersecurity:** By applying machine learning and AI algorithms, I learned to better detect, prevent, and respond to modern cyber threats.
@@ -107,29 +123,33 @@ Effectiveness of AI within an SOC environment: *In progress*
 ### **Technical Skills**
 
 * Incident Response
-* Threat Hunting & Log Analysis
-* SIEM Administration 
-* Network Security & DNS Filtering
-* Virtualization 
-* Risk Management
-* User Access Provisioning
 * IT Project Management
+* Network Security & DNS Filtering
 * OSINT
+* Risk Management
+* SIEM Administration
+* Threat Hunting & Log Analysis
+* User Access Provisioning
+* Virtualization
   
 ---
 
 ### **Tools & Software**
-* Wazuh 
-* Pi-hole 
-* TrueNAS
-* Wireshark
-* Network Miner
-* Splunk
-* Epic Hyperspace
 * Active Directory
+* dcTrack
+* Epic Hyperspace
 * Microsoft Entra ID
-* ServiceNow
+* Network Miner
 * osTicket
+* Pi-hole
+* PowerIQ
+* ServiceNow
+* SiteScan
+* SmartSheet
+* Splunk
+* TrueNAS
+* Wazuh
+* Wireshark
   
 ---
 
